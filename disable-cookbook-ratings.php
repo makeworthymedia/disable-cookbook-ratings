@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Disable_Cookbook_Ratings
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: Disable Cookbook Ratings
 Plugin URI: https://www.makeworthymedia.com/plugins/
-Description: Disables ratings in the Cookbook recipe plugin.
+Description: Disables ratings in the Cookbook recipe plugin. WARNING! This will prevent your Google Rich Cards from being fully enhanced.
 Author: Makeworthy Media
-Version: 1.0
+Version: 1.1
 Author URI: https://www.makeworthymedia.com/
 License: GPL2
 */
